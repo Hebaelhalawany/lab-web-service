@@ -1,0 +1,14 @@
+{
+  "name": "weather-app/egypt",
+  "description": "Egyptian Cities Weather Application",
+  "type": "project",
+  "require": {
+    "php": ">=7.4",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "autoload": {
+    "classmap": [
+      "./"
+    ]
+  }
+}

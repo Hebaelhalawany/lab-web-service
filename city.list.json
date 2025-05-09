@@ -1,0 +1,201 @@
+[{
+        "id": 360630,
+        "name": "Cairo",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.24967,
+            "lat": 30.06263
+        }
+    },
+    {
+        "id": 361055,
+        "name": "Alexandria",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 29.91582,
+            "lat": 31.20176
+        }
+    },
+    {
+        "id": 360761,
+        "name": "Al Qurayn",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.73514,
+            "lat": 30.61618
+        }
+    },
+    {
+        "id": 361320,
+        "name": "Al Ayyat",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.2575,
+            "lat": 29.61972
+        }
+    },
+    {
+        "id": 362882,
+        "name": "Abu al Matamir",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 30.174379,
+            "lat": 30.910179
+        }
+    },
+    {
+        "id": 350789,
+        "name": "Qalyub",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.20685,
+            "lat": 30.17922
+        }
+    },
+    {
+        "id": 361294,
+        "name": "Halwan",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.3325,
+            "lat": 29.841389
+        }
+    },
+    {
+        "id": 356945,
+        "name": "Farshut",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.163158,
+            "lat": 26.054939
+        }
+    },
+    {
+        "id": 357319,
+        "name": "Faraskur",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.71508,
+            "lat": 31.329769
+        }
+    },
+    {
+        "id": 361478,
+        "name": "Faqus",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.795731,
+            "lat": 30.73008
+        }
+    },
+    {
+        "id": 358044,
+        "name": "Diyarb Najm",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.44639,
+            "lat": 30.75444
+        }
+    },
+    {
+        "id": 361329,
+        "name": "Aswan",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.90704,
+            "lat": 24.09082
+        }
+    },
+    {
+        "id": 361370,
+        "name": "Asyut",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.18287,
+            "lat": 27.1828
+        }
+    },
+    {
+        "id": 359783,
+        "name": "Luxor",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.642101,
+            "lat": 25.687729
+        }
+    },
+    {
+        "id": 352354,
+        "name": "Port Said",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.284119,
+            "lat": 31.25654
+        }
+    },
+    {
+        "id": 361546,
+        "name": "Damietta",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.81353,
+            "lat": 31.416481
+        }
+    },
+    {
+        "id": 349114,
+        "name": "Suez",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 32.549999,
+            "lat": 29.966669
+        }
+    },
+    {
+        "id": 360531,
+        "name": "Giza",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.208611,
+            "lat": 30.00944
+        }
+    },
+    {
+        "id": 360923,
+        "name": "Al Mansurah",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.380689,
+            "lat": 31.036369
+        }
+    },
+    {
+        "id": 360995,
+        "name": "Al Mahallah al Kubra",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.16667,
+            "lat": 30.966669
+        }
+    }
+]
